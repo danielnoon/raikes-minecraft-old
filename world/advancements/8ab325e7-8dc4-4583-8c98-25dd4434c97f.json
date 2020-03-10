@@ -1476,6 +1476,7 @@
       "cooked_porkchop": "2020-02-21 03:46:18 +0000",
       "cooked_mutton": "2020-02-21 04:56:10 +0000",
       "cooked_beef": "2020-02-21 05:36:00 +0000",
+      "chorus_fruit": "2020-03-09 16:37:02 +0000",
       "beef": "2020-02-21 05:53:19 +0000",
       "porkchop": "2020-02-21 05:50:56 +0000",
       "cooked_cod": "2020-02-21 05:51:00 +0000",
@@ -1633,6 +1634,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2020-03-08 03:38:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-03-09 19:00:49 +0000"
     },
     "done": true
   },
@@ -2254,6 +2261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2020-03-09 19:00:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2020-02-21 21:17:56 +0000"
@@ -2299,6 +2312,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-02-21 04:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2020-03-10 01:09:54 +0000"
     },
     "done": true
   },
