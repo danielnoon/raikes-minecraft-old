@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-03-16 23:26:57 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2020-03-12 19:52:21 -0500"
@@ -161,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2020-03-16 23:03:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-03-12 19:59:36 -0500"
@@ -185,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2020-03-16 23:03:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-03-15 23:13:42 -0500"
@@ -206,6 +224,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-03-12 19:58:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-03-16 23:03:37 -0500"
     },
     "done": true
   },
@@ -434,6 +458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2020-03-16 23:03:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-03-12 19:59:36 -0500"
@@ -449,6 +479,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-03-12 19:59:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2020-03-16 23:03:01 -0500"
     },
     "done": true
   },
@@ -518,15 +554,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2020-03-15 23:00:46 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-03-15 22:58:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2020-03-15 23:00:46 -0500"
     },
     "done": true
   },
@@ -602,6 +638,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2020-03-16 23:03:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-03-16 23:03:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-03-16 23:03:37 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2020-03-12 20:12:33 -0500",
@@ -611,6 +665,12 @@
       "minecraft:zombie_villager": "2020-03-12 18:30:20 -0500"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-03-16 23:03:01 -0500"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -667,9 +727,27 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-03-16 23:03:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-03-15 23:00:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-16 22:34:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2020-03-16 23:03:01 -0500"
     },
     "done": true
   },
@@ -754,6 +832,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-03-12 21:32:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-03-16 23:03:01 -0500"
     },
     "done": true
   },
@@ -1072,8 +1156,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2020-03-16 22:59:08 -0500",
       "minecraft:forest": "2020-03-12 20:56:18 -0500",
+      "minecraft:desert_hills": "2020-03-16 22:59:03 -0500",
       "minecraft:desert": "2020-03-12 19:53:31 -0500",
+      "minecraft:jungle": "2020-03-16 22:59:12 -0500",
       "minecraft:birch_forest": "2020-03-12 20:28:35 -0500",
       "minecraft:beach": "2020-03-12 19:50:14 -0500",
       "minecraft:river": "2020-03-12 18:30:37 -0500",
@@ -1104,6 +1191,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-03-12 20:08:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2020-03-16 23:03:37 -0500"
     },
     "done": true
   },
@@ -1167,6 +1260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2020-03-16 23:03:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2020-03-12 18:30:38 -0500"
@@ -1188,6 +1287,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2020-03-15 22:53:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2020-03-16 22:34:43 -0500"
     },
     "done": true
   },
@@ -1230,6 +1335,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2020-03-12 20:43:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2020-03-16 23:03:01 -0500"
     },
     "done": true
   },
