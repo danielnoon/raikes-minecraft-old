@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2020-03-17 21:49:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2020-03-15 19:43:05 -0500"
@@ -345,7 +351,8 @@
     "criteria": {
       "apple": "2020-03-15 21:23:11 -0500",
       "bread": "2020-03-15 19:47:18 -0500",
-      "rotten_flesh": "2020-03-16 21:37:43 -0500"
+      "rotten_flesh": "2020-03-16 21:37:43 -0500",
+      "melon_slice": "2020-03-17 21:54:18 -0500"
     },
     "done": false
   },
@@ -418,6 +425,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2020-03-16 18:05:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-03-17 21:49:14 -0500"
     },
     "done": true
   },
@@ -825,6 +838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-03-17 11:41:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2020-03-15 19:43:05 -0500"
@@ -1052,6 +1071,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-15 20:04:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2020-03-17 21:49:19 -0500"
     },
     "done": true
   },
