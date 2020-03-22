@@ -855,6 +855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-03-21 11:34:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2020-03-07 22:03:10 -0600"
@@ -954,6 +960,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-02-21 15:08:26 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2020-03-21 11:34:42 -0500"
     },
     "done": true
   },
@@ -1547,6 +1559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-03-21 11:34:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-02-20 21:45:27 -0600"
@@ -1992,6 +2010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-03-21 11:34:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-02-20 21:45:27 -0600"
@@ -2392,6 +2416,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2020-03-16 21:59:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-03-21 11:34:42 -0500"
     },
     "done": true
   },
@@ -2968,6 +2998,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2020-02-21 15:17:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-03-21 11:34:42 -0500"
     },
     "done": true
   },
