@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2020-03-23 12:29:31 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-03-12 19:14:33 -0500"
@@ -437,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2020-03-23 12:29:31 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-12 19:01:17 -0500"
@@ -536,6 +548,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2020-03-15 20:19:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2020-03-23 12:20:56 -0500"
     },
     "done": true
   },
@@ -731,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2020-03-23 12:30:13 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2020-03-15 13:54:53 -0500"
@@ -758,6 +782,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-12 21:36:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2020-03-23 12:29:31 -0500"
     },
     "done": true
   },
@@ -917,6 +947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2020-03-23 12:20:56 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-12 20:32:42 -0500"
@@ -1060,7 +1096,9 @@
       "minecraft:birch_forest": "2020-03-12 19:03:10 -0500",
       "minecraft:savanna_plateau": "2020-03-12 19:12:42 -0500",
       "minecraft:river": "2020-03-12 19:02:04 -0500",
+      "minecraft:birch_forest_hills": "2020-03-23 12:30:42 -0500",
       "minecraft:wooded_mountains": "2020-03-12 18:57:51 -0500",
+      "minecraft:wooded_hills": "2020-03-23 12:26:59 -0500",
       "minecraft:savanna": "2020-03-12 19:02:06 -0500",
       "minecraft:plains": "2020-03-12 18:54:39 -0500"
     },
@@ -1877,6 +1915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-03-23 12:30:13 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2020-03-12 19:00:30 -0500"
@@ -2255,6 +2299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-03-23 12:30:13 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-03-12 18:58:48 -0500"
@@ -2276,6 +2326,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-03-16 14:07:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2020-03-23 12:29:31 -0500"
     },
     "done": true
   },
