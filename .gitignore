@@ -1,3 +1,7 @@
 CraftBukkit/
 Bukkit/
-Spigot
+Spigot/
+BuildData/
+BuildTools.log.txt
+apache-maven-3.6.0/
+work/
