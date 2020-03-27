@@ -711,6 +711,7 @@
     "criteria": {
       "minecraft:blaze": "2020-02-21 22:47:24 -0600",
       "minecraft:skeleton": "2020-02-20 22:46:53 -0600",
+      "minecraft:zombie_pigman": "2020-03-26 15:07:13 -0500",
       "minecraft:ghast": "2020-03-16 12:31:30 -0500",
       "minecraft:vindicator": "2020-02-21 15:12:20 -0600",
       "minecraft:magma_cube": "2020-03-25 19:35:10 -0500",
@@ -868,6 +869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2020-03-26 13:56:05 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2020-03-07 22:03:10 -0600"
@@ -997,6 +1004,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-10 00:23:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-03-26 14:19:15 -0500"
     },
     "done": true
   },
@@ -1902,6 +1915,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-03-26 14:19:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-02-20 21:22:26 -0600"
@@ -1941,6 +1960,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-03-09 23:17:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-03-26 13:56:52 -0500"
     },
     "done": true
   },
@@ -2279,6 +2304,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-02-20 21:45:27 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-03-26 13:57:46 -0500"
     },
     "done": true
   },
@@ -2927,6 +2958,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2020-02-21 15:27:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2020-03-26 13:56:05 -0500"
     },
     "done": true
   },
