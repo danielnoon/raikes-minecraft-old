@@ -620,6 +620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2020-03-27 20:11:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-25 14:32:56 -0500"
@@ -667,6 +673,7 @@
       "minecraft:spider": "2020-03-23 16:06:26 -0500",
       "minecraft:creeper": "2020-03-23 20:00:23 -0500",
       "minecraft:phantom": "2020-03-24 21:10:13 -0500",
+      "minecraft:witch": "2020-03-27 21:19:09 -0500",
       "minecraft:wither_skeleton": "2020-03-26 16:45:40 -0500",
       "minecraft:husk": "2020-03-25 00:20:02 -0500",
       "minecraft:cave_spider": "2020-03-23 21:43:27 -0500",
@@ -829,6 +836,12 @@
   "minecraft:recipes/misc/coal_from_blasting": {
     "criteria": {
       "has_coal_ore": "2020-03-25 18:37:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2020-03-27 15:14:37 -0500"
     },
     "done": true
   },
@@ -1075,6 +1088,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2020-03-23 14:30:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2020-03-27 20:11:19 -0500"
     },
     "done": true
   },
@@ -1485,6 +1504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2020-03-27 16:41:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_blasting": {
     "criteria": {
       "has_diamond_ore": "2020-03-25 18:43:51 -0500"
@@ -1833,6 +1858,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-03-27 15:35:42 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-03-26 01:33:37 -0500"
@@ -2126,6 +2157,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-03-23 14:41:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-03-27 15:37:23 -0500"
     },
     "done": true
   },
@@ -2657,6 +2694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2020-03-27 16:41:14 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-03-23 14:35:53 -0500"
@@ -2972,6 +3015,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-03-26 14:07:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-03-27 15:44:33 -0500"
     },
     "done": true
   },
