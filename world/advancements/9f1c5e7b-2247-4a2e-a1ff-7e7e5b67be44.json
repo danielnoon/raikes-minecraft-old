@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2020-03-30 16:51:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2020-03-21 12:57:28 -0500"
@@ -523,6 +529,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2020-03-30 16:58:39 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-03-21 12:54:10 -0500"
@@ -793,6 +805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-03-30 17:22:44 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2020-03-21 12:33:19 -0500"
@@ -841,6 +859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2020-03-30 16:51:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2020-03-21 13:02:02 -0500"
@@ -880,6 +904,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2020-03-21 12:30:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2020-03-30 16:58:39 -0500"
     },
     "done": true
   },
@@ -1033,8 +1063,10 @@
       "minecraft:jungle": "2020-03-21 12:59:56 -0500",
       "minecraft:birch_forest": "2020-03-20 18:29:44 -0500",
       "minecraft:savanna_plateau": "2020-03-27 21:38:42 -0500",
+      "minecraft:beach": "2020-03-30 17:41:46 -0500",
       "minecraft:dark_forest": "2020-03-20 18:03:10 -0500",
       "minecraft:river": "2020-03-20 18:29:49 -0500",
+      "minecraft:lukewarm_ocean": "2020-03-30 17:45:21 -0500",
       "minecraft:birch_forest_hills": "2020-03-20 18:30:46 -0500",
       "minecraft:wooded_mountains": "2020-03-26 21:30:43 -0500",
       "minecraft:wooded_hills": "2020-03-20 17:31:30 -0500",
@@ -1070,6 +1102,12 @@
   "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
       "has_magenta_wool": "2020-03-25 22:05:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2020-03-30 16:51:43 -0500"
     },
     "done": true
   },
@@ -1289,6 +1327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2020-03-30 16:51:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_white_flower": "2020-03-21 12:06:56 -0500"
@@ -1316,6 +1360,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-20 17:49:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2020-03-30 16:51:43 -0500"
     },
     "done": true
   },
@@ -1358,6 +1408,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-03-20 17:43:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-03-30 16:18:31 -0500"
     },
     "done": true
   },
@@ -2505,6 +2561,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2020-03-21 12:14:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2020-03-30 16:51:43 -0500"
     },
     "done": true
   },
